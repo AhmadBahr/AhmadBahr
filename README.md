@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://raw.githubusercontent.com/luoyger/luoyger/main/code.gif" /> </p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/[ahmad-bahr-6b90b8201/**](https://www.linkedin.com/in/ahmad-bahr-6b90b8201/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
