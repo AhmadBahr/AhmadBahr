@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmadBahr](https://github.com/AhmadBahr)
 
-- 💬 Ask me about **my latest project**
+- 💬 Ask me about **My Latest Project**
 
 - 📫 How to reach me **https://linktr.ee/ahmadbahr**
 
