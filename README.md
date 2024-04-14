@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Elevator System**
 
-- 🌱 I’m currently learning **Express.js && Node.js**
+- 🌱 I’m currently learning **Express.js & Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmadBahr](https://github.com/AhmadBahr)
 
