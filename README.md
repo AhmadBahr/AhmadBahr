@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Elevator System** and **Social Media Website**
 
-- 🌱 I’m currently learning **Express.js & Node.js** and ** MERN Stack **
+- 🌱 I’m currently learning **Express.js & Node.js** and  MERN Stack 
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmadBahr](https://github.com/AhmadBahr)
 
