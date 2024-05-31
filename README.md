@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **NULL**
 
-- 🌱 I’m currently learning **ASPDOTNET**
+- 🌱 I’m currently learning **ASP DOT NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmadBahr](https://github.com/AhmadBahr)
 
