@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadbahr" alt="ahmadbahr" /></a> </p>
 
-- 🔭 I’m currently working on **Elevator System**,**Social Media Website** and **Tournament Game**
+- 🔭 I’m currently working on ** **
 
-- 🌱 I’m currently learning **MERN Stack** and **C#**
+- 🌱 I’m currently learning **ASP DOT NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmadBahr](https://github.com/AhmadBahr)
 
