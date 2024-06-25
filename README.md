@@ -32,7 +32,7 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center"> 🔨 Languages and Tools:</h3>
 <p align="center">
   <a href="https://babeljs.io/">
     <img src="https://img.shields.io/badge/Babel-F5DA55?style=for-the-badge&logo=babel&logoColor=black" alt="Babel" />
