@@ -113,7 +113,7 @@
     <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
   </a>
  <a href="https://dotnet.microsoft.com/apps/aspnet/apis">
-    <img src="https://img.shields.io/badge/ASP.NET_MVC_Web_API_with_EF-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core MVC Web API + EF" />
+    <img src="https://img.shields.io/badge/ASP.NET_MVC_Web_API_+_EF-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core MVC Web API + EF" />
   </a>
 
 <p align="center">
