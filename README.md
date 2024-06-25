@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Frontend Web Developer from Lebanon</h3>
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/luoyger/luoyger/main/code.gif" width="500" height="300" alt="Coding" /> 
+  <img src="https://raw.githubusercontent.com/luoyger/luoyger/main/code.gif" width="1000" height="100" alt="Coding" /> 
 </p>
 
 <p align="center"> 
