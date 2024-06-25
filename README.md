@@ -25,7 +25,7 @@
 
 <p align="center">📄 Know about my experiences <a href="https://www.linkedin.com/in/ahmad-bahr-6b90b8201/">https://www.linkedin.com/in/ahmad-bahr-6b90b8201/</a></p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🗣️ Connect with me:</h3>
 <p align="center">
   <a href="https://linktr.ee/ahmadbahr" target="_blank">
     <img src="https://img.shields.io/badge/-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
