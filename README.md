@@ -25,16 +25,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/ahmadbahr" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/attotame" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/c/attovideos" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://linktr.ee/ahmadbahr" target="_blank">
+    <img src="https://img.shields.io/badge/-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 </p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
