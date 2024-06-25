@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmad Bahr</h1>
 <h3 align="center">🚀 Frontend Web Developer from Lebanon</h3>
 
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/luoyger/luoyger/main/code.gif" width="300" height="200" alt="Coding" /> 
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/luoyger/luoyger/main/code.gif" width="500" height="300" alt="Coding" /> 
 </p>
 
 <p align="center"> 
