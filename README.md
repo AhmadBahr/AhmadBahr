@@ -110,10 +110,10 @@
     <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI" />
   </a>
   <a href="https://dotnet.microsoft.com/apps/aspnet/mvc">
-    <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
+    <img src="https://img.shields.io/badge/ASP.NET_+_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
   </a>
  <a href="https://dotnet.microsoft.com/apps/aspnet/apis">
-    <img src="https://img.shields.io/badge/ASP.NET_MVC_Web_API_+_EF-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core MVC Web API + EF" />
+    <img src="https://img.shields.io/badge/ASP.NET_Core_MVC_Web_API_+_EF-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core MVC Web API + EF" />
   </a>
 
 <p align="center">
