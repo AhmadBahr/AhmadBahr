@@ -109,6 +109,15 @@
   <a href="https://chakra-ui.com/">
     <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI" />
   </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet">
+    <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
+  </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet/mvc">
+    <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
+  </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet/apis">
+    <img src="https://img.shields.io/badge/ASP.NET_MVC_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC Web API" />
+  </a>
 </p>
 
 <p align="center">
