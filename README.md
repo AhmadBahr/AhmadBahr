@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ahmad Bahr - Frontend Web Developer</title>
+</head>
+<body>
+
 <h1 align="center">Hi 👋, I'm Ahmad Bahr</h1>
 <h3 align="center">🚀 Frontend Web Developer from Lebanon</h3>
 
@@ -125,3 +134,19 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadbahr&theme=dark" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadbahr&repo=github-readme-stats&theme=dark" alt="GitHub Stats Repository" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadbahr&repo=convoychat&theme=dark" alt="ConvoyChat Repository" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ahmadbahr&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+</body>
+</html>
