@@ -115,10 +115,9 @@
   <a href="https://dotnet.microsoft.com/apps/aspnet/mvc">
     <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
   </a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet/apis">
-    <img src="https://img.shields.io/badge/ASP.NET_MVC_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC Web API" />
+ <a href="https://dotnet.microsoft.com/apps/aspnet/apis">
+    <img src="https://img.shields.io/badge/ASP.NET_MVC_Web_API_with_EF-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET MVC Web API with EF" />
   </a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbahr&layout=compact&theme=dark" alt="Top Languages" />
