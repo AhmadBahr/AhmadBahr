@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Bahr</h1>
 <h3 align="center">Frontend Web Developer from Lebanon</h3>
 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/luoyger/luoyger/main/code.gif" width="500" height="300" /> 
-</p>
+<p align="left"> <img src="https://raw.githubusercontent.com/luoyger/luoyger/main/code.gif" /> </p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ahmadbahr&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadbahr" /> 
