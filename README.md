@@ -53,6 +53,15 @@
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)](https://jquery.com)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)
 
+## Languages and Tools:
+
+![Babel](https://img.shields.io/badge/Babel-F5DA55?logo=babel&logoColor=black&style=for-the-badge) [Babel](https://babeljs.io/)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge) [Bootstrap](https://getbootstrap.com)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge) [C#](https://www.w3schools.com/cs/)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) [CSS3](https://www.w3schools.com/css/)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge) [Figma](https://www.figma.com)
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadbahr&show_icons=true&locale=en&layout=compact" alt="ahmadbahr" /></p>
