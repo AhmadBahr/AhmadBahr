@@ -128,4 +128,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadbahr&theme=dark" alt="GitHub Streak" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/AhmadBahr/AhmadBahr/output/github-contribution-grid-snake-dark.svg)
+
