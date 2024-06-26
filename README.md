@@ -120,6 +120,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbahr&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/AhmadBahr/AhmadBahr/output/github-contribution-grid-snake-dark.svg)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadbahr&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
