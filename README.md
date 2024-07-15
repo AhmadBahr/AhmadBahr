@@ -118,6 +118,9 @@
   <a href="https://expressjs.com/">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   </a>
+ <a href="https://material-ui.com/">
+    <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
+  </a>
 </p>
 
 <p align="center">
