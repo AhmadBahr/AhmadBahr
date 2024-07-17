@@ -33,7 +33,7 @@
 </p>
 
 <h3 align="center"> 🔨 Languages and Tools:</h3>
-<h4 align="center">Frontend Technologies:</h4>
+<h4 align="center">Frontend Technology:</h4>
 <p align="center">
   <a href="https://getbootstrap.com">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -70,7 +70,7 @@
   </a>
 </p>
 
-<h4 align="center">Backend Technologies:</h4>
+<h4 align="center">Backend Technology:</h4>
 <p align="center">
   <a href="https://www.w3schools.com/cs/">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
