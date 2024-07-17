@@ -33,7 +33,7 @@
 </p>
 
 <h3 align="center"> 🔨 Languages and Tools:</h3>
-<h4 align="center">Frontend</h4>
+<h4 align="center">Frontend Technologies:</h4>
 <p align="center">
   <a href="https://getbootstrap.com">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -70,7 +70,7 @@
   </a>
 </p>
 
-<h4 align="center">Backend</h4>
+<h4 align="center">Backend Technologies:</h4>
 <p align="center">
   <a href="https://www.w3schools.com/cs/">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -101,7 +101,7 @@
   </a>
 </p>
 
-<h4 align="center">Testing</h4>
+<h4 align="center">Tools and API Testing:</h4>
 <p align="center">
   <a href="https://jestjs.io">
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
@@ -111,7 +111,7 @@
   </a>
 </p>
 
-<h4 align="center">Tools</h4>
+<h4 align="center">UX Tools</h4>
 <p align="center">
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
