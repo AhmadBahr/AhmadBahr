@@ -16,8 +16,8 @@
   <strong>🔭 Currently:</strong> Open to opportunities<br />
   <strong>🌱 Learning:</strong> ASP.NET<br />
   <strong>💬 Ask me about:</strong> My Latest Projects<br />
-  <strong>📫 Reach me at:</strong> <a href="https://linktr.ee/ahmadbahr">Linktree - Ahmad Bahr</a><br />
-  <strong>📄 Check my experiences on:</strong> <a href="https://www.linkedin.com/in/ahmadbahr">LinkedIn</a>
+  <strong>📫 Reach me at:</strong> <a href="https://linktr.ee/ahmadbahr">Ahmad Bahr</a><br />
+  <strong>📄 Check my experiences on:</strong> <a href="https://www.linkedin.com/in/ahmadbahr">Ahmad Bahr</a>
 </p>
 <h3 align="center">🗣️ Connect with me:</h3>
 <p align="center">
