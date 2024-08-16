@@ -161,5 +161,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ahmadbahr&theme=dracula" alt="GitHub Contribution Graph" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadbahr&theme=react-dark" alt="GitHub Contribution Graph" />
 </p>
