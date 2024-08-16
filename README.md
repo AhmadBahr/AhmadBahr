@@ -161,5 +161,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ahmadbahr&theme=dracula" alt="GitHub Contribution Graph" />
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ahmadbahr&theme=dracula" alt="GitHub Contribution Graph" />
 </p>
