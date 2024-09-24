@@ -82,8 +82,11 @@
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/jQuery-0868AC?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Kaboom.js-FF6F20?style=for-the-badge&logo=javascript&logoColor=white" alt="Kaboom.js" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 </p>
+
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadbahr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
