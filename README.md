@@ -78,7 +78,7 @@
   <img src="https://img.shields.io/badge/Machine_Learning-FF9800?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning" />
 </p>
 
-<h4 align="center">Additional Skills:</h4>
+<h4 align="center">Supplementary Skills:</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
