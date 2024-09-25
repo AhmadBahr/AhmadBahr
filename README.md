@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 </p>
-<h3 align="center">💻 Technologies:</h3>
+<h3 align="center">💻 Tech Stack:</h3>
 
 <h4 align="center">Frontend Technologies:</h4>
 <p align="center">
