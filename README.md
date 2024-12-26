@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=reactnative&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 </p>
 
 
@@ -49,6 +50,8 @@
 
 <h4 align="center">Post CSS Frameworks:</h4>
 <p align="center">
+  <img src="https://img.shields.io/badge/shadcn/ui-18181B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMTIgMjJjLTEuNTkzIDAtMy4xNjktLjMwNy00LjYwOC0uOTE2YTEyLjA5NSAxMi4wOTUgMCAwIDEtMy44NjctMi41MjMgMTEuNDc2IDExLjQ3NiAwIDAgMS0yLjUzMS0zLjg2NkMuMzA3IDE1LjE2OSAwIDEzLjU5MyAwIDEyYzAtMS41OTMuMzA3LTMuMTY5LjkxNi00LjYwOC44MzktMS44MTkgMi4wOTUtMy44NjcgMy44NjctNS4wNjVDNS4zODcgLjkwNiA3Ljk0NiAwIDEyIDBjMS41OTMgMCAzLjE2OS4zMDcgNC42MDguOTE2IDEuODE5LjgzOSAzLjg2NyAyLjA5NSA1LjA2NSAzLjg2Ny45MDYuNDM1IDEuNzE5IDkuMzI5IDEuOTk0IDEuNjY5LjMwNyAzLjE2OS41MjQgNC42MDguNTI0IDEuNTkzIDAgMy4xNjktLjMwNyA0LjYwOC0uOTE2YTEyLjA5NSAxMi4wOTUgMCAwIDAgMy44NjctMi41MjMgMTEuNDc2IDExLjQ3NiAwIDAgMCAyLjUzMS0zLjg2NkMyMy42OTQgMTUuMTY5IDI0IDEzLjU5MyAyNCAxMmMwLTEuNTkzLS4zMDYtMy4xNjktLjkxNi00LjYwOC0uODM4LTEuODE5LTIuMDk1LTMuODY3LTMuODY3LTUuMDY1QzE4LjYxMy44NzQgMTYuMDQxIDAgMTIgMCIgZmlsbD0iI0ZGRiIvPjxwYXRoIGQ9Ik0xMiAxNy4yMjVjLTEuMjY1IDAtMi40NS0uMzA2LTMuNDM3LS44ODQtMS4xMjYtLjYxMi0yLjA0OS0xLjQ5Mi0yLjczNC0yLjUzLTEuMDM3LTEuNTAzLTEuMjY1LTMuNDI3LTEuMjY1LTUuMjIyIDAtMS4yNjUuMzA3LTIuNDUgLjg4NS0zLjQzNy42MTItMS4xMjYgMS40OTEtMi4wNDkgMi41MzEtMi43MzQuNzQ0LS41MjQgMi4yMDgtLjQ1NSAyLjg5Ny4xMDEuNzQ1LjU3MSAxLjAzNyAxLjQ4OSAxLjI2NSAyLjQ1LjUwNy4wMzYgMi41NTcuODQ0IDIuMTUyIDIuMzc2LS40OTcgMi4yNzUtMi40NzQgMi4zMzgtMy4xODIgNC4wMy0uNDgyLjExNS0yLjIwOC41OTEtMi4yMDguNTkxLjAwMSAwLS4wMDEgMC0uMDAxIDAgLjg4NSAzLjYzNyA0LjIwMyA2LjM2MyA4LjEzNSA2LjM2MyAyLjIwNiAwIDQuMjM0LS43ODkgNS44NTctMi4xNTRhOC44MiA4LjgyIDAgMCAwIDQuNTI2LTYuNjgzYy4yNjUtLjM1Mi41NTctLjcwNC44NjYtMS4wNTYuNTc0LjY0Ny44MzkgMS40ODggMS4wNjUgMi40NS41MDcuMDM2IDEuNTc1LjA4MSAxLjU3NS4wODFzLjAwMSAwIC4wMDEgMGMuMTAyIDIuMzM3LTEuMDE3IDQuNDg4LTIuNzQ3IDUuOTY0LTEuNjQzIDEuNDMtMy43MTQgMi40Ni02LjM1IDIuNDZaIiBmaWxsPSIjMzYzNjM2Ii8+PC9zdmc+" alt="shadcn/ui" />
+
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
@@ -57,6 +60,7 @@
   <img src="https://img.shields.io/badge/Framer_Motion-EA4C89?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/AOS-007ACC?style=for-the-badge&logo=animateonscroll&logoColor=white" alt="AOS" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" alt="Prettier" />
 </p>
 
 
@@ -66,6 +70,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Convex-005FCC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICAgIDxnIGZpbGw9IiNmZmYiPgogICAgICAgIDxwYXRoIGQ9Ik0xMiAwYTEyIDEyIDAgMCAwLTExLjc2NCA5LjQ4NWw1LjIxOC01LjIxNyA1LjIxNyA1LjIxN0ExMiAxMiAwIDAgMCAxMiAwem0wIDEyLjk3NWwtNS4yMTggNS4yMTdBMTIgMTIgMCAwIDAgMTIuMDE2IDI0IDEyIDEyIDAgMCAwIDI0IDEybC01LjIxNy01LjIxNy01LjIxOCA1LjIxN3oiLz4KICAgIDwvZz4KPC9zdmc+" alt="Convex" />
 </p>
 
 <h4 align="center">Testing & Tools:</h4>
@@ -103,8 +108,9 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Email%20Developer-4B8BBE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Developer" />
   <img src="https://img.shields.io/badge/Chrome%20Extension%20Developer-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension Developer" />
+  <img src="https://img.shields.io/badge/Svix-00AAFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjMDAwIiBkPSJNMCAwaDI0djI0SDBWMHoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTIuNSAwaDYuNjIybDcuODQ3IDcuODQ3SDEyLjVWME0yLjYyMyAwdjYuNjIybDcuODQ3IDcuODQ3VjBIMi42MjNNMCAyLjYyM3YxMy4yNDVsNy44NDcgNy44NDdWMTIuNUwwIDIuNjIzTTIuNjIzIDI0aDYuNjIydi02LjYyMkwyLjYyMyAyNFoiLz48L3N2Zz4=" alt="Svix" />
+  <img src="https://img.shields.io/badge/Clerk-352C63?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMiIgZmlsbD0iI0Y1NkY1NiIvPjx0ZXh0IHg9IjYuNSIgeT0iMTYuNSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjZmZmIj5DbGVyayA8L3RleHQ+PC9zdmc+" alt="Clerk" />
 </p>
-
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
