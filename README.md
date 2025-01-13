@@ -69,7 +69,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Convex-005FCC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICAgIDxnIGZpbGw9IiNmZmYiPgogICAgICAgIDxwYXRoIGQ9Ik0xMiAwYTEyIDEyIDAgMCAwLTExLjc2NCA5LjQ4NWw1LjIxOC01LjIxNyA1LjIxNyA1LjIxN0ExMiAxMiAwIDAgMCAxMiAwem0wIDEyLjk3NWwtNS4yMTggNS4yMTdBMTIgMTIgMCAwIDAgMTIuMDE2IDI0IDEyIDEyIDAgMCAwIDI0IDEybC01LjIxNy01LjIxNy01LjIxOCA1LjIxN3oiLz4KICAgIDwvZz4KPC9zdmc+" alt="Convex" />
 </p>
 
 <h4 align="center">Testing & Tools:</h4>
