@@ -105,7 +105,6 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Email%20Developer-4B8BBE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Developer" />
   <img src="https://img.shields.io/badge/Chrome%20Extension%20Developer-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension Developer" />
-  <img src="https://img.shields.io/badge/Svix-00AAFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjMDAwIiBkPSJNMCAwaDI0djI0SDBWMHoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTIuNSAwaDYuNjIybDcuODQ3IDcuODQ3SDEyLjVWME0yLjYyMyAwdjYuNjIybDcuODQ3IDcuODQ3VjBIMi42MjNNMCAyLjYyM3YxMy4yNDVsNy44NDcgNy44NDdWMTIuNUwwIDIuNjIzTTIuNjIzIDI0aDYuNjIydi02LjYyMkwyLjYyMyAyNFoiLz48L3N2Zz4=" alt="Svix" />
   <img src="https://img.shields.io/badge/Clerk-352C63?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMiIgZmlsbD0iI0Y1NkY1NiIvPjx0ZXh0IHg9IjYuNSIgeT0iMTYuNSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjZmZmIj5DbGVyayA8L3RleHQ+PC9zdmc+" alt="Clerk" />
 </p>
 
