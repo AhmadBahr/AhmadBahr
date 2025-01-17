@@ -85,8 +85,8 @@
 
 <h4 align="center">AI & Machine Learning:</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Neural_Networks-FF5722?style=for-the-badge&logo=python&logoColor=white" alt="Neural Networks" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF9800?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Neural_Networks-FF5722?style=for-the-badge&logo=python&logoColor=white" alt="Neural Networks in Javascript" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF9800?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning in Javascript" />
 </p>
 
 <h4 align="center">Supplementary Skills:</h4>
