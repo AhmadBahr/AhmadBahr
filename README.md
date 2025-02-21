@@ -103,8 +103,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Email%20Developer-4B8BBE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Developer" />
-  <img src="https://img.shields.io/badge/Chrome%20Extension%20Developer-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension Developer" />
   <img src="https://img.shields.io/badge/Clerk-352C63?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMiIgZmlsbD0iI0Y1NkY1NiIvPjx0ZXh0IHg9IjYuNSIgeT0iMTYuNSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjZmZmIj5DbGVyayA8L3RleHQ+PC9zdmc+" alt="Clerk" />
 <img src="https://img.shields.io/badge/Svix-000000?style=for-the-badge&logo=svix&logoColor=white" alt="Svix" />
 </p>
