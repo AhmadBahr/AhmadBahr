@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Bahr</h1>
-<h3 align="center">🚀 FullStack Developer from Lebanon</h3>
+<h3 align="center">🚀 A FullStack Developer from Lebanon</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/luoyger/luoyger/main/code.gif" width="800" height="450" alt="Coding Animation" />
 </p>
