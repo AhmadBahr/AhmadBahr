@@ -124,9 +124,6 @@
   <img src="https://img.shields.io/badge/ML_in_JavaScript-FF9800?style=for-the-badge&logo=javascript&logoColor=black" alt="Machine Learning in JavaScript" />
 </p>
 
-
-<h3 align="center">📊 GitHub Stats:</h3>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadbahr&theme=react-dark" alt="GitHub Contribution Graph" />
 </p>
