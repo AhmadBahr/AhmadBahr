@@ -106,9 +106,9 @@
   <img src="https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/WebSockets-1D4D4F?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/Clerk-352C63?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
-  <img src="https://img.shields.io/badge/Svix-000000?style=for-the-badge&logo=svix&logoColor=white" alt="Svix" />
+  <img src="https://img.shields.io/badge/WebSockets-1D4D4F?style=for-the-badge" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Clerk-352C63?style=for-the-badge" alt="Clerk" />
+  <img src="https://img.shields.io/badge/Svix-000000?style=for-the-badge" alt="Svix" />
 </p>
 
 <h4 align="center">State, Data & Other</h4>
